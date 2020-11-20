@@ -17,14 +17,14 @@
 | 第六课 | Git和Github          | (https://www.baidu.com/s?ie=UTF-8&wd=%E5%8D%9A%E5%AE%A2) |
 | 第七课 | 虚拟机               | (https://www.baidu.com/s?ie=UTF-8&wd=%E5%8D%9A%E5%AE%A2) |
 | 第八课 | Office               | (https://www.baidu.com/s?ie=UTF-8&wd=%E5%8D%9A%E5%AE%A2) |
-## 代码块  
+## 代码段  
 ```
 import random
 a=random.randrange(2020012001,2020012101,1)
 print('请学号为%d同学回答老师问题！'%a)
 ```
 
-## 代码段  
+## 代码块 
 `print("hello world")`
 
 ## 列表（信息素养的实践课程的应用）  
