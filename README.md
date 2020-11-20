@@ -25,7 +25,7 @@ print('请学号为%d同学回答老师问题！'%a)
 ```
 
 ## 代码段  
-`print("hello world")
+`print("hello world")`
 
 ## 列表（信息素养的实践课程的应用）  
 * 信息素养
